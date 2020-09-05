@@ -2,4 +2,4 @@
 
 ### All projects started with 'DH' belong to all done during the course of Front-End Web, held at the Hack Station from Facebook
 
-### Link para o projeto: todolist-digitalhouse.netlify.app
+### Link para o projeto: https://todolist-digitalhouse.netlify.app
